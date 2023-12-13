@@ -483,3 +483,6 @@ $RECYCLE.BIN/
 # Vim temporary swap files
 *.swp
 API/appsettings.json
+client/ssl/localhost.pem
+.gitignore
+client/ssl/localhost-key.pem
